@@ -1,6 +1,6 @@
 # Megalos Vanilla Pack x16
 
-![head](https://cdn.discordapp.com/attachments/816659736673386506/948181426031980564/Showcaseproto1.png)
+![head](https://cdn.discordapp.com/attachments/612007430901071912/968267930162831420/Showcaseproto2.png)
 
 le mégalos vanilla comporte plusieurs addons créé par nesios.
 
