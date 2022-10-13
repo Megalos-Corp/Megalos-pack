@@ -1,0 +1,14 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "item.minecraft.golden_carrot": "Waffle",
+  "item.minecraft.porkchop": "Bacon",
+  "item.minecraft.cooked_porkchop": "Smoked Bacon",
+  "item.minecraft.music_disc_cat.desc": "Endure emptiness",
+  "item.minecraft.music_disc_13.desc": "Fight for quiescence",
+  "item.minecraft.music_disc_11.desc": "Dracona",
+  "container.inventory":"",
+  "container.crafting": "",
+  "container.brewing":""
+}
